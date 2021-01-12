@@ -1,0 +1,13 @@
+
+#jetbrains IDE
+workspace.xml
+**/.idea
+
+#/.idea/modules.xml
+#/.idea/inspectionProfiles/profiles_settings.xml
+#/.idea/inspectionProfiles/Project_Default.xml
+#/.idea/vagrant-machines.iml
+#/.idea/vcs.xml
+
+#vagrant
+**/.vagrant
